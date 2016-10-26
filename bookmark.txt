@@ -1,0 +1,2 @@
+http://avenir.ro/create-cms-using-codeigniter-3/
+http://blog.pisyek.com/create-todo-app-with-codeigniter-3-angularjs/
